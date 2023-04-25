@@ -26,5 +26,10 @@
         android:layout_height="wrap_content"
         android:text="@string/radar_chart"/>
 
+    <Button
+        android:id = "@+id/buttonStackHBarChart"
+        android:layout_width= "match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/stacked_horizontalBar_chat"/>
 
 </LinearLayout>
